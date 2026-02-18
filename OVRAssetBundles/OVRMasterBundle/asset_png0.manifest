@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.2.8f1
+CRC: 2934481589
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3bf758e42f410fee3fedf1e17874e96f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bc9f87c7e64ff656997db0f2b2a91703
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f1f3d9e19dcc73653bf8657340b71baf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Packages/com.meta.xr.sdk.core/Textures/MetaQuestTouchPlus/MetaQuestTouchPlus_Normals.png
+- Packages/com.meta.xr.sdk.core/Textures/MetaQuestTouchPlus/MetaQuestTouchPlus_Metallic.png
+- Packages/com.meta.xr.sdk.core/Textures/MetaQuestTouchPlus/MetaQuestTouchPlus_Left_BaseColor_AO_AlphaRoughness.png
+- Packages/com.meta.xr.sdk.core/Textures/MetaQuestTouchPlus/MetaQuestTouchPlus_Right_BaseColor_AO_AlphaRoughness.png
+- Packages/com.meta.xr.sdk.core/Textures/MetaQuestTouchPro/controller_l_lo_Normal.png
+- Packages/com.meta.xr.sdk.interaction/Runtime/Textures/RainbowGradient.png
+- Packages/com.meta.xr.sdk.interaction/Runtime/Textures/Reticle-Circle.png
+- Packages/com.meta.xr.sdk.core/Textures/OculusTouchForRift/touchController_albedo.png
+- Packages/com.meta.xr.sdk.core/Textures/MetaQuestTouchPro/controller_r_lo_Normal.png
+- Packages/com.meta.xr.sdk.interaction/Runtime/Textures/fingers_glow_mask.png
+- Packages/com.meta.xr.sdk.core/Textures/MetaQuestTouchPro/controller_r_lo_BaseColor.png
+- Packages/com.meta.xr.sdk.core/Textures/MetaQuestTouchPro/controller_l_lo_BaseColor.png
+- Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Textures/OCUIIconSet/OCUI_24_Filled_2x.png
+- Packages/com.meta.xr.sdk.core/Textures/MetaQuestTouchPro/batteryIndicatorTexture32.png
+- Packages/com.meta.xr.sdk.interaction/Runtime/Textures/Reticle-Dot.png
+Dependencies: []

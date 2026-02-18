@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.2.8f1
+CRC: 2935050785
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1071d3e5cd476f2208941d1fcff10be5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fb019175aaeda978701c73c13ef28a80
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0e0effee164dd3aacb2642f63ce9f43a
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/UISet/Animations/Quest_Dark/SecondaryButton_Dark.controller
+- Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Animations/CapsuleAffordanceOpacityAnimationController.controller
+- Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/UISet/Animations/Quest_Dark/ToggleButton_Borderless_Dark.controller
+- Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/UISet/Animations/Quest_Dark/ToggleButton_Dark.controller
+- Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForQuestAndRiftS/Animation/OculusTouchQuestAndRiftSLeftAnimation.controller
+- Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/UISet/Animations/Quest_Dark/BorderlessButton_Dark.controller
+- Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Animations/skinned_articulated_arc.controller
+- Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Animations/PanelBorderAffordance.controller
+- Packages/com.meta.xr.sdk.core/Meshes/MetaQuestTouchPlus/Animation/MetaQuestTouchPlusLeftAnimation.controller
+- Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForQuest2/Animation/OculusTouchQuest2LeftAnimation.controller
+- Packages/com.meta.xr.sdk.core/Meshes/MetaQuestTouchPro/Animation/MetaQuestTouchProRightAnimation.controller
+- Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Animations/ArcOpacityAnimationController.controller
+- Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForRift/Animation/OculusTouchRiftRightAnimation.controller
+- Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForQuestAndRiftS/Animation/OculusTouchQuestAndRiftSRightAnimation.controller
+- Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForQuest2/Animation/OculusTouchQuest2RightAnimation.controller
+- Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/UISet/Animations/Quest_Dark/PrimaryButton_Dark.controller
+- Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Animations/ScaleAffordanceOpacityAnimationController.controller
+- Packages/com.meta.xr.sdk.core/Meshes/MetaQuestTouchPro/Animation/MetaQuestTouchProLeftAnimation.controller
+- Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Animations/CapsuleAffordanceGeometryAnimationController.controller
+- Packages/com.meta.xr.sdk.core/Meshes/MetaQuestTouchPlus/Animation/MetaQuestTouchPlusRightAnimation.controller
+- Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/UISet/Animations/Quest_Dark/DestructiveButton_Dark.controller
+- Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Animations/ScaleAffordanceGeometryAnimationController.controller
+- Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Animations/PanelBorderHandleAffordance.controller
+- Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForRift/Animation/OculusTouchRiftLeftAnimation.controller
+Dependencies:
+- C:/Users/Jaylen/mnet xr demo/OVRAssetBundles/OVRMasterBundle/asset_anim0
+- C:/Users/Jaylen/mnet xr demo/OVRAssetBundles/OVRMasterBundle/asset_fbx0

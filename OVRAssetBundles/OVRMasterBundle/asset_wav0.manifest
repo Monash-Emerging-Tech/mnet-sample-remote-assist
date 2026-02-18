@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.2.8f1
+CRC: 2044993635
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0f6bc19f7fdae8790d1aa590809ec317
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b291a67b235b6f5f152643044202333b
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Audio/Content/Interaction_UIGrab_01.wav
+- Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Audio/Content/Interaction_UIRelease_01.wav
+- Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Audio/Content/Interaction_Locomotion_Exit.wav
+- Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Audio/Content/Interaction_BasicPoke_ButtonPress.wav
+- Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Audio/Content/Interaction_Locomotion_Enter.wav
+- Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Audio/Content/Interaction_BasicRay_Press.wav
+Dependencies: []

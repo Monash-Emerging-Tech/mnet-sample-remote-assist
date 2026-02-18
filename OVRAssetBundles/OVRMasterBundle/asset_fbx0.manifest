@@ -1,0 +1,77 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.2.8f1
+CRC: 1659371097
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e589e4210eaecfdb78d82e92751cfa3c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 00d9ad61c14af8d57baeee97df34c25e
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9143a38e51eb5cab32bd65be3092c7c9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Packages/com.meta.xr.sdk.interaction/Runtime/Meshes/Locomotion/LocomotionLocation.fbx
+- Packages/com.meta.xr.sdk.core/Meshes/MetaQuestTouchPro/MetaQuestTouchPro_Left.fbx
+- Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForQuestAndRiftS/Materials/OculusTouchForQuestAndRiftS_Material.fbx
+- Packages/com.meta.xr.sdk.interaction/Runtime/Meshes/OVRHand_L.fbx
+- Packages/com.meta.xr.sdk.interaction/Runtime/Meshes/Locomotion/LocomotionPointer.fbx
+- Packages/com.meta.xr.sdk.core/Meshes/MetaQuestTouchPlus/MetaQuestTouchPlus_Left.fbx
+- Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Meshes/skinned_rounded_rectangle.fbx
+- Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForQuest2/Materials/OculusTouchForQuest2_MAT.fbx
+- Packages/com.meta.xr.sdk.interaction/Runtime/Meshes/OpenXRRightHand.fbx
+- Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForQuest2/OculusTouchForQuest2_Right.fbx
+- Packages/com.meta.xr.sdk.core/Meshes/MetaQuestTouchPro/MetaQuestTouchPro_Right.fbx
+- Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForQuestAndRiftS/OculusTouchForQuestAndRiftS_Left.fbx
+- Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForQuest2/OculusTouchForQuest2_Left.fbx
+- Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForRift/Materials/OculusTouchForRift_Material.fbx
+- Packages/com.meta.xr.sdk.core/Meshes/MetaQuestTouchPlus/Materials/MetaQuestTouchPlusLeft_Material.fbx
+- Packages/com.meta.xr.sdk.interaction/Runtime/Meshes/OpenXRLeftHand.fbx
+- Packages/com.meta.xr.sdk.core/Meshes/MetaQuestTouchPro/Materials/MetaQuestProLeft_Material.fbx
+- Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForQuestAndRiftS/OculusTouchForQuestAndRiftS_Right.fbx
+- Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Meshes/capsule_affordance.fbx
+- Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Meshes/scale_affordance.fbx
+- Packages/com.meta.xr.sdk.core/Meshes/MetaQuestTouchPlus/Materials/MetaQuestTouchPlusRight_Material.fbx
+- Packages/com.meta.xr.sdk.interaction/Runtime/Meshes/OculusHandPinchArrowBlended.fbx
+- Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForRift/Materials/pasted_touchPBS_MAT.fbx
+- Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForRift/left_touch_controller_model_skel.fbx
+- Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Meshes/skinned_articulated_arc.fbx
+- Packages/com.meta.xr.sdk.core/Meshes/MetaQuestTouchPro/Materials/MetaQuestProRight_Material.fbx
+- Packages/com.meta.xr.sdk.core/Meshes/MetaQuestTouchPlus/MetaQuestTouchPlus_Right.fbx
+- Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForRift/right_touch_controller_model_skel.fbx
+- Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Props/Materials/DefaultMaterial.fbx
+- Packages/com.meta.xr.sdk.interaction/Runtime/Meshes/OVRHand_R.fbx
+Dependencies:
+- C:/Users/Jaylen/mnet xr demo/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- C:/Users/Jaylen/mnet xr demo/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/Jaylen/mnet xr demo/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- C:/Users/Jaylen/mnet xr demo/OVRAssetBundles/OVRMasterBundle/asset_shadergraph0
+- C:/Users/Jaylen/mnet xr demo/OVRAssetBundles/OVRMasterBundle/asset_tga0

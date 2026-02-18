@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.2.8f1
+CRC: 68261783
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4a5fbb21a3f19e04b81ffe9a0674f119
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 958b54fb77cc0a35b3bf79f07d0e96ea
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ab4bac902d7bccc00d1b25e2098a38f4
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Animations/capsuleGeometryHover.anim
+- Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Animations/scale_geometrySelect_rescaled.anim
+Dependencies: []
