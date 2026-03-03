@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.2.8f1
-CRC: 3353037095
+CRC: 993098651
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0d6a6bf7a732135567b2e496064b2acb
+    Hash: 0bc29f01724c29145ed20a41906beb9e
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 16184716dd05a308eb31cbc0691f79aa
+    Hash: 7e4dc468c7dbb7179bf745103a576ef1
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: bec1608a5e42f616486e2894911dd2df
+    Hash: 983d0afe904eeed7de8b2f297ba7852d
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -54,6 +54,8 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 8c187a71eebf18441816c16087a51cb6, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 331d7f91e4f2d20498cb8079638deeda, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 6eb5e919275d29245bba9a1f0e849e6a, type: 3}
@@ -61,6 +63,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 9a174518816f7e645860e70cf978ba1c, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 8df81de6ba2e4e14c983a5a14b7957c0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ec472db9c42ccc342a2d35777d25c03d, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 67fb2ae006d618c4180efcabc2481fcf, type: 3}
 - Class: 114
@@ -88,9 +92,13 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 998a5646185efb9488265f3a2f35a99a, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 50f211aff3d26554691f0499eaa219e5, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: aebd5da9a8bd22243b407f1927f4965b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 08f7cfb1f9629da4494ac0840f3a3cfd, type: 3}
 - Class: 114
@@ -134,11 +142,15 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: b14164f8f23faae4293baeb84485b3d6, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: f026be10edaad42429c52aa2200881dd, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: bffe606b408599b4fad696ddc889a943, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 4cfe1df7ed391a24fbe2a2d275e81b06, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: d17425af5fc89a443bba05adbe10381a, type: 3}
 - Class: 114
@@ -147,6 +159,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: a7b47e36715521d4e8a30d2c5b6e83e2, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: d5e48d93b64a9ae4f9fd5a728c8f51af, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 56549cdaaf4d81e4387b02698fd3daa0, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: ee6b94f7bc105c24ea3746dc4141a7eb, type: 3}
 - Class: 114
@@ -165,8 +179,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 1a56054f6e3838f4e85dce4e71979800, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: ae43f25c06eb2d9408a201216b4c3ed7, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 2728d4cd2e5956445bcf3ded585c0ac0, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 438e12c9002f2c8489c81a2d3472b18d, type: 3}
 - Class: 114
@@ -201,8 +213,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: be5585168c67af345b1074140733215b, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: d952c175ec3c6554199fd744548ce50a, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: ec3c4a8b42e65c348904e5170307b64e, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: acb743c666c1ab34e928a0b62c2fa862, type: 3}
 - Class: 114
@@ -270,17 +280,25 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: be4f8a87204f80c46a1af01f7787fb0d, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 417817ee9b785e341b31ce731f028317, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 488896fe86105104a8453d9f173cf62a, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 97ad1841d31cfd844995732927b7c958, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 9085046f02f69544eb97fd06b6048fe2, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 5e38df5678b37d6429ef2446d3589e00, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: aaa9829e545a541498f4d93a6a20924f, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 5ab90b5d07fb7e240975058b36a342a4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6f21528085b305345aa60f40f4a5a5d8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 115a4fd4ac2e6844daa2305603ce9688, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 135
@@ -291,9 +309,13 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 210
   Script: {instanceID: 0}
-- Class: 212
-  Script: {instanceID: 0}
 - Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 1818360608
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers:
 - AssemblyName: Oculus.Interaction.Samples
@@ -314,6 +336,20 @@ SerializeReferenceClassIdentifiers:
   ClassName: Oculus.Interaction.ProgressCurve
 - AssemblyName: Oculus.VR
   ClassName: OVRHand/MicrogestureType
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FaceInfo_Legacy
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FontAssetCreationSettings
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.KerningTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_Character
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontFeatureTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontWeightPair
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
 - AssemblyName: UnityEngine.CoreModule
   ClassName: UnityEngine.Events.ArgumentCache
 - AssemblyName: UnityEngine.CoreModule
@@ -324,8 +360,37 @@ SerializeReferenceClassIdentifiers:
   ClassName: UnityEngine.Events.UnityEvent
 - AssemblyName: UnityEngine.CoreModule
   ClassName: UnityEngine.Events.UnityEvent`1
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.FaceInfo
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.Glyph
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphMetrics
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphRect
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.LowLevel.GlyphAdjustmentRecord
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.LowLevel.GlyphPairAdjustmentRecord
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.LowLevel.GlyphValueRecord
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Toggle/ToggleEvent
 Assets:
 - Packages/com.meta.xr.sdk.interaction.ovr/Runtime/Prefabs/Legacy/OVRControllerVisual.prefab
+- Packages/com.meta.xr.sdk.interaction/Runtime/Prefabs/Locomotion/ControllerSlide.prefab
 - Packages/com.meta.xr.sdk.interaction/Runtime/Prefabs/DistanceHandGrab/Reticles/ReticleMesh.prefab
 - Packages/com.meta.xr.sdk.interaction/Runtime/Prefabs/DistanceHandGrab/Reticles/ReticleIcon.prefab
 - Packages/com.meta.xr.sdk.interaction/Runtime/Prefabs/DistanceHandGrab/ControllerDistanceGrabInteractor.prefab
@@ -334,13 +399,15 @@ Assets:
 - Packages/com.meta.xr.sdk.interaction/Runtime/Prefabs/Locomotion/TeleportControllerInteractor.prefab
 - Packages/com.meta.xr.sdk.interaction.ovr/Runtime/Prefabs/Hands/OVRHandsDataSource.prefab
 - Packages/com.meta.xr.sdk.interaction/Runtime/Prefabs/Hands/OVRRightHandSynthetic.prefab
+- Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/UISet/Prefabs/Button/UnityUIToggleBased/DropDownListButton_IconAndLabel2Lines_Toggle.prefab
 - Packages/com.meta.xr.sdk.interaction/Runtime/Prefabs/Ray/HandRayInteractor.prefab
 - Packages/com.meta.xr.sdk.interaction/Runtime/Prefabs/DistanceHandGrab/DistanceControllerHandGrabInteractor.prefab
 Dependencies:
-- C:/Users/Jaylen/mnet xr demo/OVRAssetBundles/OVRMasterBundle/asset_asset0
-- C:/Users/Jaylen/mnet xr demo/OVRAssetBundles/OVRMasterBundle/asset_controller0
-- C:/Users/Jaylen/mnet xr demo/OVRAssetBundles/OVRMasterBundle/asset_fbx0
-- C:/Users/Jaylen/mnet xr demo/OVRAssetBundles/OVRMasterBundle/asset_mat0
-- C:/Users/Jaylen/mnet xr demo/OVRAssetBundles/OVRMasterBundle/asset_png0
-- C:/Users/Jaylen/mnet xr demo/OVRAssetBundles/OVRMasterBundle/asset_prefab1
-- C:/Users/Jaylen/mnet xr demo/OVRAssetBundles/OVRMasterBundle/asset_wav0
+- A:/Code/mnet-sample-remote-assist/OVRAssetBundles/OVRMasterBundle/asset_asset0
+- A:/Code/mnet-sample-remote-assist/OVRAssetBundles/OVRMasterBundle/asset_controller0
+- A:/Code/mnet-sample-remote-assist/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- A:/Code/mnet-sample-remote-assist/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- A:/Code/mnet-sample-remote-assist/OVRAssetBundles/OVRMasterBundle/asset_png0
+- A:/Code/mnet-sample-remote-assist/OVRAssetBundles/OVRMasterBundle/asset_prefab1
+- A:/Code/mnet-sample-remote-assist/OVRAssetBundles/OVRMasterBundle/asset_resources
+- A:/Code/mnet-sample-remote-assist/OVRAssetBundles/OVRMasterBundle/asset_wav0

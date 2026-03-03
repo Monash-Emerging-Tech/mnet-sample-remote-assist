@@ -10,7 +10,7 @@ Hashes:
     Hash: 00d9ad61c14af8d57baeee97df34c25e
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 9143a38e51eb5cab32bd65be3092c7c9
+    Hash: da5e4b496e786f9ef16438461f65b938
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -70,8 +70,8 @@ Assets:
 - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/Props/Materials/DefaultMaterial.fbx
 - Packages/com.meta.xr.sdk.interaction/Runtime/Meshes/OVRHand_R.fbx
 Dependencies:
-- C:/Users/Jaylen/mnet xr demo/OVRAssetBundles/OVRMasterBundle/asset_mat0
-- C:/Users/Jaylen/mnet xr demo/OVRAssetBundles/OVRMasterBundle/asset_png0
-- C:/Users/Jaylen/mnet xr demo/OVRAssetBundles/OVRMasterBundle/asset_shader0
-- C:/Users/Jaylen/mnet xr demo/OVRAssetBundles/OVRMasterBundle/asset_shadergraph0
-- C:/Users/Jaylen/mnet xr demo/OVRAssetBundles/OVRMasterBundle/asset_tga0
+- A:/Code/mnet-sample-remote-assist/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- A:/Code/mnet-sample-remote-assist/OVRAssetBundles/OVRMasterBundle/asset_png0
+- A:/Code/mnet-sample-remote-assist/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- A:/Code/mnet-sample-remote-assist/OVRAssetBundles/OVRMasterBundle/asset_shadergraph0
+- A:/Code/mnet-sample-remote-assist/OVRAssetBundles/OVRMasterBundle/asset_tga0

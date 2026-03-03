@@ -1,6 +1,6 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.2.8f1
-CRC: 3627323047
+CRC: 2235109113
 HashAppended: 0
 AssetBundleManifest:
   AssetBundleInfos:
@@ -62,13 +62,14 @@ AssetBundleManifest:
     Info_6:
       Name: asset_prefab2
       Dependencies:
-        Dependency_0: asset_wav0
-        Dependency_1: asset_prefab1
-        Dependency_2: asset_fbx0
-        Dependency_3: asset_controller0
-        Dependency_4: asset_mat0
-        Dependency_5: asset_asset0
-        Dependency_6: asset_png0
+        Dependency_0: asset_resources
+        Dependency_1: asset_wav0
+        Dependency_2: asset_prefab1
+        Dependency_3: asset_fbx0
+        Dependency_4: asset_controller0
+        Dependency_5: asset_mat0
+        Dependency_6: asset_asset0
+        Dependency_7: asset_png0
     Info_7:
       Name: asset_fbx0
       Dependencies:

@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.2.8f1
-CRC: 100860046
+CRC: 574757825
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8d30cc68a59c2e9876805929648e0f34
+    Hash: bbe160b6ee161a9dbb0775f87e168bed
   TypeTreeHash:
     serializedVersion: 2
-    Hash: cf970f3631f12b3804891ffaf243655e
+    Hash: 7fdfb9a1415dcf33b3d63aa02bb783bf
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 9271c908102fdf70e7b5af4bec61c803
+    Hash: 5d1f12601abcc5a4d14552711d78ae44
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -67,6 +67,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 8df81de6ba2e4e14c983a5a14b7957c0, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: ec472db9c42ccc342a2d35777d25c03d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 67fb2ae006d618c4180efcabc2481fcf, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: c5af6ab9d1bd4a47970ad151090281f3, type: 3}
 - Class: 114
@@ -184,8 +186,6 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: ae43f25c06eb2d9408a201216b4c3ed7, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 2728d4cd2e5956445bcf3ded585c0ac0, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 438e12c9002f2c8489c81a2d3472b18d, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 3673df66324d8f34d9433049c54de631, type: 3}
@@ -214,9 +214,9 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: be5585168c67af345b1074140733215b, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: d952c175ec3c6554199fd744548ce50a, type: 3}
+  Script: {fileID: 11500000, guid: 3312d7739989d2b4e91e6319e9a96d76, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: ec3c4a8b42e65c348904e5170307b64e, type: 3}
+  Script: {fileID: 11500000, guid: d952c175ec3c6554199fd744548ce50a, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: acb743c666c1ab34e928a0b62c2fa862, type: 3}
 - Class: 114
@@ -288,8 +288,6 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 9067480af55f5874d8f613b16812f968, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 417817ee9b785e341b31ce731f028317, type: 3}
@@ -305,6 +303,10 @@ ClassTypes:
   Script: {fileID: 11500000, guid: aaa9829e545a541498f4d93a6a20924f, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 5ab90b5d07fb7e240975058b36a342a4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6f21528085b305345aa60f40f4a5a5d8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 115a4fd4ac2e6844daa2305603ce9688, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 135
@@ -315,8 +317,6 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 210
   Script: {instanceID: 0}
-- Class: 212
-  Script: {instanceID: 0}
 - Class: 213
   Script: {instanceID: 0}
 - Class: 222
@@ -326,6 +326,8 @@ ClassTypes:
 - Class: 224
   Script: {instanceID: 0}
 - Class: 225
+  Script: {instanceID: 0}
+- Class: 1818360608
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers:
 - AssemblyName: Oculus.Interaction.Samples
@@ -417,6 +419,7 @@ Assets:
 - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Prefabs/TextTileButton_IconAndLabel_Regular_ComprehensiveScene.prefab
 - Packages/com.meta.xr.sdk.interaction/Runtime/Prefabs/Locomotion/ArcVisual.prefab
 - Packages/com.meta.xr.sdk.interaction/Runtime/Prefabs/DistanceHandGrab/Reticles/ReticleLine.prefab
+- Packages/com.meta.xr.sdk.interaction/Runtime/Prefabs/Locomotion/ControllerLocomotionSlideActions.prefab
 - Packages/com.meta.xr.sdk.interaction.ovr/Runtime/Prefabs/OVRHmd.prefab
 - Packages/com.meta.xr.sdk.interaction/Runtime/Prefabs/Hands/OVRLeftHandVisual.prefab
 - Packages/com.meta.xr.sdk.interaction/Runtime/Prefabs/Poke/ControllerPokeInteractor.prefab
@@ -426,18 +429,17 @@ Assets:
 - Packages/com.meta.xr.sdk.core/Prefabs/OVRControllerPrefab.prefab
 - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Audio/Prefabs/BasicPokeCanvasPressAudio.prefab
 - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/UISet/Prefabs/DropDown/DropDownIconAnd1LineText.prefab
-- Packages/com.meta.xr.sdk.interaction/Runtime/Prefabs/Locomotion/ControllerTurnerInteractor.prefab
 - Packages/com.meta.xr.sdk.interaction/Runtime/Sample/Objects/UISet/Prefabs/Button/UnityUIToggleBased/BorderlessButton_IconAndLabel.prefab
 - Packages/com.meta.xr.sdk.interaction/Runtime/Prefabs/Locomotion/HandTurnerInteractor.prefab
 - Packages/com.meta.xr.sdk.interaction.ovr/Runtime/Prefabs/Legacy/OVRInteractionComprehensive_legacy.prefab
 - Packages/com.meta.xr.sdk.interaction.ovr/Runtime/Prefabs/Microgestures/StepMicrogesture.prefab
 Dependencies:
-- C:/Users/Jaylen/mnet xr demo/OVRAssetBundles/OVRMasterBundle/asset_asset0
-- C:/Users/Jaylen/mnet xr demo/OVRAssetBundles/OVRMasterBundle/asset_controller0
-- C:/Users/Jaylen/mnet xr demo/OVRAssetBundles/OVRMasterBundle/asset_fbx0
-- C:/Users/Jaylen/mnet xr demo/OVRAssetBundles/OVRMasterBundle/asset_mat0
-- C:/Users/Jaylen/mnet xr demo/OVRAssetBundles/OVRMasterBundle/asset_png0
-- C:/Users/Jaylen/mnet xr demo/OVRAssetBundles/OVRMasterBundle/asset_prefab1
-- C:/Users/Jaylen/mnet xr demo/OVRAssetBundles/OVRMasterBundle/asset_prefab2
-- C:/Users/Jaylen/mnet xr demo/OVRAssetBundles/OVRMasterBundle/asset_resources
-- C:/Users/Jaylen/mnet xr demo/OVRAssetBundles/OVRMasterBundle/asset_wav0
+- A:/Code/mnet-sample-remote-assist/OVRAssetBundles/OVRMasterBundle/asset_asset0
+- A:/Code/mnet-sample-remote-assist/OVRAssetBundles/OVRMasterBundle/asset_controller0
+- A:/Code/mnet-sample-remote-assist/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- A:/Code/mnet-sample-remote-assist/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- A:/Code/mnet-sample-remote-assist/OVRAssetBundles/OVRMasterBundle/asset_png0
+- A:/Code/mnet-sample-remote-assist/OVRAssetBundles/OVRMasterBundle/asset_prefab1
+- A:/Code/mnet-sample-remote-assist/OVRAssetBundles/OVRMasterBundle/asset_prefab2
+- A:/Code/mnet-sample-remote-assist/OVRAssetBundles/OVRMasterBundle/asset_resources
+- A:/Code/mnet-sample-remote-assist/OVRAssetBundles/OVRMasterBundle/asset_wav0

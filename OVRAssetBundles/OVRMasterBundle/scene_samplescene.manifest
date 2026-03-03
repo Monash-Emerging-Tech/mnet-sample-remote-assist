@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.2.8f1
-CRC: 2619451032
+CRC: 2690108741
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e46c9bae896c134414e4c53eb7ec4e9b
+    Hash: b57aab5c82179d5f25b778d0319b8968
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 918581298c63cd76864d3bca4d4599b9
+    Hash: f22d8739b1dbe07f6e5dd3cb09b6226c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 10dda94ccb4b3a858c819f1708c49b6a
+    Hash: 6196d9c803bdc4fa0edd652bb8365f6b
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -256,8 +256,6 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: ae43f25c06eb2d9408a201216b4c3ed7, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 2728d4cd2e5956445bcf3ded585c0ac0, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 438e12c9002f2c8489c81a2d3472b18d, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 3673df66324d8f34d9433049c54de631, type: 3}
@@ -304,9 +302,9 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 947e35f79c504ff4a977e49fcf45dac1, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: d952c175ec3c6554199fd744548ce50a, type: 3}
+  Script: {fileID: 11500000, guid: 3312d7739989d2b4e91e6319e9a96d76, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: ec3c4a8b42e65c348904e5170307b64e, type: 3}
+  Script: {fileID: 11500000, guid: d952c175ec3c6554199fd744548ce50a, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
 - Class: 114
@@ -323,6 +321,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 03190b23f0f30f74dacc4ed3992541b6, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: c9baea8b9d474934191bc47580d2537c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ef9a7893e57c04c0db4114c70954b915, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 038d627f7b72e904382b2b0f8fb30c29, type: 3}
 - Class: 114
@@ -434,7 +434,9 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 5ab90b5d07fb7e240975058b36a342a4, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: a683d5f080db37e4da1660d108d920ca, type: 3}
+  Script: {fileID: 11500000, guid: 6f21528085b305345aa60f40f4a5a5d8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 115a4fd4ac2e6844daa2305603ce9688, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -450,8 +452,6 @@ ClassTypes:
 - Class: 196
   Script: {instanceID: 0}
 - Class: 210
-  Script: {instanceID: 0}
-- Class: 212
   Script: {instanceID: 0}
 - Class: 213
   Script: {instanceID: 0}
@@ -469,13 +469,13 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Scenes/SampleScene.unity
 Dependencies:
-- C:/Users/Jaylen/mnet xr demo/OVRAssetBundles/OVRMasterBundle/asset_asset0
-- C:/Users/Jaylen/mnet xr demo/OVRAssetBundles/OVRMasterBundle/asset_controller0
-- C:/Users/Jaylen/mnet xr demo/OVRAssetBundles/OVRMasterBundle/asset_fbx0
-- C:/Users/Jaylen/mnet xr demo/OVRAssetBundles/OVRMasterBundle/asset_mat0
-- C:/Users/Jaylen/mnet xr demo/OVRAssetBundles/OVRMasterBundle/asset_png0
-- C:/Users/Jaylen/mnet xr demo/OVRAssetBundles/OVRMasterBundle/asset_prefab0
-- C:/Users/Jaylen/mnet xr demo/OVRAssetBundles/OVRMasterBundle/asset_prefab1
-- C:/Users/Jaylen/mnet xr demo/OVRAssetBundles/OVRMasterBundle/asset_prefab2
-- C:/Users/Jaylen/mnet xr demo/OVRAssetBundles/OVRMasterBundle/asset_resources
-- C:/Users/Jaylen/mnet xr demo/OVRAssetBundles/OVRMasterBundle/asset_wav0
+- A:/Code/mnet-sample-remote-assist/OVRAssetBundles/OVRMasterBundle/asset_asset0
+- A:/Code/mnet-sample-remote-assist/OVRAssetBundles/OVRMasterBundle/asset_controller0
+- A:/Code/mnet-sample-remote-assist/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- A:/Code/mnet-sample-remote-assist/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- A:/Code/mnet-sample-remote-assist/OVRAssetBundles/OVRMasterBundle/asset_png0
+- A:/Code/mnet-sample-remote-assist/OVRAssetBundles/OVRMasterBundle/asset_prefab0
+- A:/Code/mnet-sample-remote-assist/OVRAssetBundles/OVRMasterBundle/asset_prefab1
+- A:/Code/mnet-sample-remote-assist/OVRAssetBundles/OVRMasterBundle/asset_prefab2
+- A:/Code/mnet-sample-remote-assist/OVRAssetBundles/OVRMasterBundle/asset_resources
+- A:/Code/mnet-sample-remote-assist/OVRAssetBundles/OVRMasterBundle/asset_wav0

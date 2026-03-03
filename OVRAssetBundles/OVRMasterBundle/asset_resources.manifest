@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.2.8f1
-CRC: 2726627183
+CRC: 3610350133
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6fce73c9310afdc4d5278fbf1f6f9925
+    Hash: ea645779fc0ab710a4853dd8f910fc88
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 251c6d4fb351099a2c3948ff61ce3cc9
+    Hash: cf423c2aa161546efb67d857c9886ae0
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 7b1993b79ef6211f0f20e52269a96bb2
+    Hash: 1a5bc960759c09bdd130418fd3d863d9
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -93,7 +93,6 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
 - Assets/Resources/InputActions.asset
-- Assets/Resources/PerformanceTestRunSettings.json
 - Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans
   SDF - Metalic Green.mat
 - Assets/TextMesh Pro/Examples & Extras/Resources/Sprite Assets/Default Sprite Asset.asset
@@ -106,14 +105,14 @@ Assets:
 - Assets/TextMesh Pro/Examples & Extras/Resources/Sprite Assets/DropCap Numbers.asset
 - Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF
   - HDRP Unlit.mat
+- Assets/Resources/PerformanceTestRunInfo.json
 - Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans
   SDF - Overlay.mat
 - Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF
   - URP.mat
 - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
-- Assets/Resources/PerformanceTestRunInfo.json
-- Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF.asset
 - Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Glow.mat
+- Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF.asset
 - Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Drop
   Shadow.mat
 - Assets/Resources/OVRBuildConfig.asset
@@ -154,6 +153,7 @@ Assets:
 - Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF -
   Drop Shadow - 2 Pass.mat
 - Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Logo.mat
+- Assets/Resources/PerformanceTestRunSettings.json
 - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
 - Assets/XRI/Settings/Resources/InteractionLayerSettings.asset
 - Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset
@@ -162,14 +162,14 @@ Assets:
 - Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF.asset
 - Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt
 Dependencies:
-- C:/Users/Jaylen/mnet xr demo/OVRAssetBundles/OVRMasterBundle/asset_asset0
-- C:/Users/Jaylen/mnet xr demo/OVRAssetBundles/OVRMasterBundle/asset_controller0
-- C:/Users/Jaylen/mnet xr demo/OVRAssetBundles/OVRMasterBundle/asset_fbx0
-- C:/Users/Jaylen/mnet xr demo/OVRAssetBundles/OVRMasterBundle/asset_mat0
-- C:/Users/Jaylen/mnet xr demo/OVRAssetBundles/OVRMasterBundle/asset_png0
-- C:/Users/Jaylen/mnet xr demo/OVRAssetBundles/OVRMasterBundle/asset_prefab0
-- C:/Users/Jaylen/mnet xr demo/OVRAssetBundles/OVRMasterBundle/asset_prefab1
-- C:/Users/Jaylen/mnet xr demo/OVRAssetBundles/OVRMasterBundle/asset_prefab2
-- C:/Users/Jaylen/mnet xr demo/OVRAssetBundles/OVRMasterBundle/asset_shader0
-- C:/Users/Jaylen/mnet xr demo/OVRAssetBundles/OVRMasterBundle/asset_ttf0
-- C:/Users/Jaylen/mnet xr demo/OVRAssetBundles/OVRMasterBundle/asset_wav0
+- A:/Code/mnet-sample-remote-assist/OVRAssetBundles/OVRMasterBundle/asset_asset0
+- A:/Code/mnet-sample-remote-assist/OVRAssetBundles/OVRMasterBundle/asset_controller0
+- A:/Code/mnet-sample-remote-assist/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- A:/Code/mnet-sample-remote-assist/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- A:/Code/mnet-sample-remote-assist/OVRAssetBundles/OVRMasterBundle/asset_png0
+- A:/Code/mnet-sample-remote-assist/OVRAssetBundles/OVRMasterBundle/asset_prefab0
+- A:/Code/mnet-sample-remote-assist/OVRAssetBundles/OVRMasterBundle/asset_prefab1
+- A:/Code/mnet-sample-remote-assist/OVRAssetBundles/OVRMasterBundle/asset_prefab2
+- A:/Code/mnet-sample-remote-assist/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- A:/Code/mnet-sample-remote-assist/OVRAssetBundles/OVRMasterBundle/asset_ttf0
+- A:/Code/mnet-sample-remote-assist/OVRAssetBundles/OVRMasterBundle/asset_wav0
